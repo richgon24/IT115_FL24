@@ -1,0 +1,13 @@
+{
+    "name": "Rich Gonzalez",
+    "age": 25,
+    "city": "Long Beach, CA",
+    "interests": [
+        "Music",
+        "Photography",
+        "Art",
+        "Football",
+        "Nature"
+    ],
+    "is_student": true
+}
